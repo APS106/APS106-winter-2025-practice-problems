@@ -1,0 +1,398 @@
+Crowdmark ID,Full Name,ID,Last Name,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Total
+0,"Minahan, Dr. William Edward",2631646e-1ce5-4d88-80ea-9e80a5f4c118,Minahan,1,0,4,1,6,6,21,39
+1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",e6b24243-bc78-4cc8-94bf-b96147d37638,Taussig,4,4,1,1,5,6,15,36
+2,"Harris, Mr. Henry Birkhardt",1aa40c83-e1c6-4cc5-9c9c-4c234b7f6a75,Harris,6,1,3,4,2,0,7,23
+3,"Rosenbaum, Miss. Edith Louise",2a66e2df-851e-430a-b992-378e0ca8039a,Rosenbaum,6,5,5,3,0,2,-8,13
+4,"Hays, Miss. Margaret Bechstein",be6fb129-2a31-496a-a651-56f26676ec85,Hays,4,6,0,3,3,6,-22,0
+5,"Caldwell, Master. Alden Gates",593c9e0b-3c46-469d-8495-6053ccdb31e0,Caldwell,2,5,3,3,2,5,-11,9
+6,"Cairns, Mr. Alexander",f734ae2e-8b37-4218-8e76-b247bfdbfa3e,Cairns,3,5,1,6,4,0,15,34
+7,"Douglas, Mrs. Walter Donald (Mahala Dutton)",8fd01d64-de14-482b-bf5a-a51d4dcd3f62,Douglas,3,0,4,3,1,1,-8,4
+8,"Andrews, Miss. Kornelia Theodosia",fb207a9a-d9af-4cb2-9752-918e68920b42,Andrews,3,3,5,4,5,5,-13,12
+9,"Newell, Mr. Arthur Webster",2af408f8-7d6a-4b63-9dcb-d453d402a7c6,Newell,0,3,1,3,2,1,14,24
+10,"LeRoy, Miss. Bertha",976ef438-57fc-4ccf-85e9-6ced454aa564,LeRoy,2,6,2,3,2,0,29,44
+11,"Bowerman, Miss. Elsie Edith",765adfe8-e8da-4e6c-b4d6-f0f34cb9be15,Bowerman,6,1,6,0,2,2,18,35
+12,"Hilliard, Mr. Herbert Henry",9a37f348-fd64-4321-abb3-d4195eea5ba4,Hilliard,3,1,3,5,6,1,-14,5
+13,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",c1e196c2-fc53-41f4-b812-876eabac1510,Stephenson,4,5,2,0,0,2,11,24
+14,"Hogeboom, Mrs. John C (Anna Andrews)",203467d2-61d6-46ae-b634-39103b3f2807,Hogeboom,3,3,6,0,3,1,26,42
+15,"Fortune, Miss. Alice Elizabeth",ea773842-9814-4147-93c6-4abd4981cb01,Fortune,2,4,4,5,0,3,-17,1
+16,"Goldschmidt, Mr. George B",47f59d2c-645a-4543-94ae-5e73e56968d7,Goldschmidt,3,6,4,1,5,2,10,31
+17,"Corbett, Mrs. Walter H (Irene Colvin)",0feabbee-f3a9-44b4-88bf-a05ad710d677,Corbett,6,3,0,5,4,6,-12,12
+18,"Anderson, Mr. Harry",64ab0233-0044-44bf-8295-7a8dfb924261,Anderson,3,5,6,1,5,4,-4,20
+19,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",137896ef-030b-4e59-ac55-94a8509bbebf,Bucknell,4,6,0,0,1,3,24,38
+20,"Carter, Mr. William Ernest",83a45bca-c9a3-4bd5-8cb9-23d575162623,Carter,0,0,2,2,4,4,-7,5
+21,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",8dd40776-da62-4bef-b35d-ab4960193683,Davies,5,3,1,5,3,2,16,35
+22,"Allison, Master. Hudson Trevor",dba2ddd3-ead5-402e-a4ab-f2089c2c8ab0,Allison,3,5,5,1,3,5,18,40
+23,"Harper, Mr. Henry Sleeper",cbda1e9c-0138-40ef-a99a-0f1900a8dc98,Harper,1,0,6,3,6,2,-4,14
+24,"Tucker, Mr. Gilbert Milligan Jr",fc0cd2e1-9d5f-421b-a584-bc534ff1648a,Tucker,6,1,1,0,3,2,22,35
+25,"Becker, Miss. Ruth Elizabeth",8f3764cc-c32c-4188-bb3c-7abe58fa9e88,Becker,6,6,4,5,2,1,-19,5
+26,"Carbines, Mr. William",08c9c1e5-4e5b-4e59-9e4d-3991029c300f,Carbines,0,1,4,4,6,4,-4,15
+27,"Hoyt, Mr. Frederick Maxfield",e43c1a2c-a9f3-42ff-9313-11418a659259,Hoyt,1,0,1,3,4,0,32,41
+28,"Compton, Miss. Sara Rebecca",5db0c84a-9272-4601-a713-2451e788d7d1,Compton,3,2,0,0,3,4,2,14
+29,"Daniel, Mr. Robert Williams",fe5146ab-3e2c-4b9f-9526-14a340c32277,Daniel,1,0,1,6,3,5,17,33
+30,"Ringhini, Mr. Sante",49d0deef-b66e-43f0-9f52-ef88ea49800e,Ringhini,2,6,2,2,6,2,4,24
+31,"White, Mrs. John Stuart (Ella Holmes)",fa590309-a665-4394-b44c-7b0cbfcfd1e4,White,1,6,5,2,4,3,14,35
+32,"Burns, Miss. Elizabeth Margaret",d98246bb-6a99-451c-8816-72f52903a9bf,Burns,2,5,0,6,5,6,5,29
+33,"Brown, Mrs. John Murray (Caroline Lane Lamson)",8c0b8bb6-946c-4b75-9f8a-c3295d833d2f,Brown,6,4,1,2,2,1,8,24
+34,"Maguire, Mr. John Edward",d8c693e9-e869-4b05-b6da-6782fadb1da5,Maguire,5,5,1,3,4,6,15,39
+35,"Lesurer, Mr. Gustave J",df2fbe51-1511-431a-996d-3461d980c694,Lesurer,5,5,2,3,0,5,-1,19
+36,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",a616bc76-8c77-4d9c-9ddb-2c46bc45a378,Mayne,4,0,3,2,2,6,15,32
+37,"Crafton, Mr. John Bertram",89869f00-6732-4ccc-afff-b43f1cd3e78c,Crafton,2,2,4,6,5,2,-3,18
+38,"Banfield, Mr. Frederick James",e6ceb259-7040-4a5b-852d-98d96f6d45c1,Banfield,6,1,4,3,3,5,15,37
+39,"Chapman, Mr. Charles Henry",dfc7f493-d3f8-4138-9219-d74817fe167c,Chapman,6,3,6,4,4,5,-14,14
+40,"Williams-Lambert, Mr. Fletcher Fellows",c106dd34-94a0-42aa-8a9b-98cdec5947c5,Williams-Lambert,1,4,0,6,3,1,22,37
+41,"Dibden, Mr. William",63efdd06-e46b-43a2-8fc9-167efe93ec60,Dibden,1,0,2,3,3,5,-11,3
+42,"Collander, Mr. Erik Gustaf",1e6d2609-a67b-4772-b1ff-5c85b8bc0b9e,Collander,3,2,1,2,5,5,-9,9
+43,"Rowe, Mr. Alfred G",8e229a00-f1b9-4f15-aad1-617a709d800e,Rowe,4,6,5,0,4,1,-5,15
+44,"Smith, Mr. Lucien Philip",e4888a95-641c-42cc-85eb-f211ecc4b6a2,Smith,0,4,6,5,0,3,-10,8
+45,"Graham, Mr. George Edward",72b1396a-10d3-4149-93a4-f9dafdabbf47,Graham,1,1,1,6,4,0,0,13
+46,"Kreuchen, Miss. Emilie",ed78ecb4-4a7d-4396-af83-77af90b85004,Kreuchen,4,2,5,4,6,3,2,26
+47,"Guggenheim, Mr. Benjamin",85076fb7-2f7d-47bd-a5ca-11b88e19f5f4,Guggenheim,0,1,5,1,1,3,22,33
+48,"Carter, Miss. Lucile Polk",60963b14-a01a-409a-942e-9af2d642a82a,Carter,6,4,5,1,3,4,-15,8
+49,"Dodge, Dr. Washington",35030dbf-272e-456a-ad77-9dac05f9f8ad,Dodge,3,0,6,3,4,0,-15,1
+50,"Warren, Mr. Frank Manley",9d81209b-c89d-4e60-bf4b-cd66163f75d3,Warren,4,6,3,3,3,3,-6,16
+51,"Isham, Miss. Ann Elizabeth",1f826275-c874-4e80-8bbc-b0b02823bdf6,Isham,5,0,3,1,0,2,-6,5
+52,"Cook, Mrs. (Selena Rogers)",08689fba-2bc1-439e-8e36-10ee31ec3d5c,Cook,2,0,1,4,3,2,3,15
+53,"Harder, Mrs. George Achilles (Dorothy Annan)",337e997a-a7da-4174-a952-0e0eae6ff74c,Harder,5,3,5,3,6,3,-10,15
+54,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",ed50ffe1-a4ff-427c-8d0c-45511b46eacb,Swift,6,6,6,1,0,6,8,33
+55,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",e0b16b9f-8f68-48f8-b962-787ddcf764cb,Douglas,0,0,2,4,2,4,15,27
+56,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",1c4f681a-8722-4ff3-982e-f224e9a7c9a6,Chapman,0,5,5,5,2,4,19,40
+57,"Campbell, Mr. William",941ed10e-86b1-4a46-994a-5a8cfea5901e,Campbell,2,2,5,2,0,0,16,27
+58,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",324253a7-adae-4fbf-b9f5-1c07be6fc7d7,Cardeza,6,3,2,0,6,4,-9,12
+59,"Compton, Mr. Alexander Taylor Jr",d814645e-cd06-461d-9fb5-cfd05f405604,Compton,3,3,2,4,2,6,-18,2
+60,"Bishop, Mrs. Dickinson H (Helen Walton)",90759853-3cfa-42ce-b8e5-effac2b713f5,Bishop,0,5,4,4,3,0,-15,1
+61,"Bystrom, Mrs. (Karolina)",1e99b5f2-7b21-4f89-b212-4657b23bd0cd,Bystrom,2,5,1,6,5,0,18,37
+62,"Flynn, Mr. John Irwin (""Irving"")",386ebc92-9773-473a-a590-f434c6b60f77,Flynn,2,3,0,1,1,1,13,21
+63,"Widener, Mr. George Dunton",9343b4a8-7327-456c-8080-198efd04b66f,Widener,3,1,4,1,0,4,-12,1
+64,"Frauenthal, Dr. Henry William",3b5d4e3d-25ae-4ef8-a960-4baa68583f70,Frauenthal,6,2,4,5,5,0,-5,17
+65,"Clarke, Mrs. Charles V (Ada Maria Winfield)",b8ca83f6-a4e7-41e8-97d9-85588fb4108f,Clarke,2,2,1,0,0,2,2,9
+66,"Straus, Mr. Isidor",96916613-8303-4484-9375-3015758d5cc4,Straus,3,4,4,4,1,5,-13,8
+67,"Porter, Mr. Walter Chamberlain",33430bbd-3e97-4a1f-9b53-f376d9586b7f,Porter,3,5,4,5,6,1,18,42
+68,"Ostby, Miss. Helene Ragnhild",c34a4ab3-2a8c-4ada-856f-24001e57a58b,Ostby,0,2,4,6,5,1,12,30
+69,"Longley, Miss. Gretchen Fiske",5c892735-58ff-4c54-a740-3cda4a1fc44e,Longley,2,0,3,5,3,4,21,38
+70,"Chambers, Mr. Norman Campbell",3a003956-83e9-46f0-9098-6857ecbfcee2,Chambers,4,3,0,4,2,3,21,37
+71,"Salomon, Mr. Abraham L",da74e5e7-212d-4e52-afb6-0ce9d5af4fab,Salomon,3,3,5,5,3,6,3,28
+72,"Uruchurtu, Don. Manuel E",990e0e8d-da53-401f-a3ef-d9939cdc3f95,Uruchurtu,0,6,1,1,4,5,-9,8
+73,"Butler, Mr. Reginald Fenton",7eb1bb64-0ccc-467e-ba99-ab48212d4e9f,Butler,5,1,6,4,6,4,-11,15
+74,"Collyer, Miss. Marjorie ""Lottie""",c6112586-cae3-4cbb-8f05-3cc6d674b878,Collyer,6,6,1,0,1,0,-2,12
+75,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",ef87da23-a07d-41ad-a2f3-fd7618a09ffb,Hays,1,0,1,6,4,4,25,41
+76,"Lurette, Miss. Elise",22604e81-5f78-4b10-bdb0-359af17292af,Lurette,6,6,2,0,0,4,-15,3
+77,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",8cdf4668-2748-49b9-832f-fdc66128a301,Ryerson,6,3,6,0,0,2,-6,11
+78,"Clark, Mr. Walter Miller",d89868b0-1286-4aaa-ad79-0db7e65b1bf9,Clark,5,0,4,1,5,2,16,33
+79,"Cotterill, Mr. Henry ""Harry""",fc1d21c6-ae02-48fa-89ec-b560ac88bd54,Cotterill,0,4,5,1,5,4,10,29
+80,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",1523e1b0-ed40-4682-9e9a-31aa1c470585,Thayer,5,4,5,5,1,3,6,29
+81,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",7ed49499-1cdf-4745-969a-e8778be57a66,Compton,5,0,3,4,6,3,-6,15
+82,"Franklin, Mr. Thomas Parham",7109b7d1-2fc7-4ca9-949d-a8e0f993b70b,Franklin,5,3,5,4,2,1,-12,8
+83,"White, Mr. Percival Wayland",ef5b1afa-0b3b-4a91-b7f5-af143b66e259,White,4,6,6,0,5,1,-20,2
+84,"McGough, Mr. James Robert",3684bab3-257a-4667-9755-01cd7aa97380,McGough,4,1,4,3,2,0,-10,4
+85,"Bentham, Miss. Lilian W",f2247e25-4430-481d-9a62-5f6dbe306029,Bentham,1,0,5,1,3,6,-2,14
+86,"Spedden, Master. Robert Douglas",4338704a-dbaa-49bb-93eb-8af9be9d1f9b,Spedden,1,1,2,3,0,1,1,9
+87,"Lewy, Mr. Ervin G",af1a8ba7-beed-47a2-afc7-a5192ecc9701,Lewy,0,2,0,2,1,5,14,24
+88,"Saalfeld, Mr. Adolphe",3cf06480-1174-4e95-ba2f-d3c02449d34f,Saalfeld,1,2,5,6,3,3,-17,3
+89,"Rheims, Mr. George Alexander Lucien",44898235-b04e-4a5c-9ab9-ee89855174b3,Rheims,6,2,3,2,2,6,5,26
+90,"Gracie, Col. Archibald IV",5e4b1103-558e-4cd6-b9b2-f0a4724196b2,Gracie,1,6,2,1,3,4,13,30
+91,"Brown, Mr. Thomas William Solomon",b5c716a1-a9d8-487d-98da-497638ed2fad,Brown,6,5,6,2,5,2,6,32
+92,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",2a6e6a1b-fea4-4591-bb0f-d2784a4e548d,Becker,0,4,3,6,0,0,-7,6
+93,"Fortune, Mr. Charles Alexander",8722a8ea-5c0a-4a26-ad7a-d3045946e7a8,Fortune,6,6,2,4,4,2,-19,5
+94,"Astor, Col. John Jacob",be4015b9-0cbb-4c5d-90b2-7388563dd5ed,Astor,2,3,4,6,4,6,-19,6
+95,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",2803a07a-462f-443f-a2e4-d9bb54267067,Rothes,1,5,0,6,4,2,7,25
+96,"Keeping, Mr. Edwin",adea6fae-8d45-4cb4-903f-b4b93951adf2,Keeping,2,6,3,4,3,1,10,29
+97,"Graham, Miss. Margaret Edith",db4cefac-c1ff-4724-9d9b-9b6733697d88,Graham,3,5,2,4,3,6,17,40
+98,"Simonius-Blumer, Col. Oberst Alfons",60fa88ca-1882-4f8b-a469-ca7edea920cb,Simonius-Blumer,3,0,3,3,2,3,19,33
+99,"Davidson, Mrs. Thornton (Orian Hays)",15fbf75f-df67-4288-9f30-d03fe6b1fb5e,Davidson,1,6,5,1,4,1,8,26
+100,"Baxter, Mr. Quigg Edmond",28126485-4d92-47f2-9d2b-d65f32594d5c,Baxter,6,1,0,5,2,3,12,29
+101,"Walker, Mr. William Anderson",e0d27cc2-bc2d-4c04-bf38-15a57665ab5e,Walker,5,4,1,5,6,5,-25,1
+102,"Barkworth, Mr. Algernon Henry Wilson",84c596b8-9e0b-4c6d-adb6-2491b69f0a8d,Barkworth,6,2,3,6,4,5,3,29
+103,"Rosenshine, Mr. George (""Mr George Thorne"")",604fe668-4aff-4b5c-9b39-95aac92d2061,Rosenshine,2,5,3,0,6,2,-14,4
+104,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",66eb7226-7582-4f52-b366-15351abb53c6,Potter,6,5,2,5,1,5,9,33
+105,"Greenfield, Mrs. Leo David (Blanche Strouse)",d5c384c6-c56f-40de-a718-3bd390368e2b,Greenfield,2,3,0,3,6,3,9,26
+106,"Aubart, Mme. Leontine Pauline",e502c238-7b62-4ddf-99d5-98c2e49149c4,Aubart,1,5,4,6,2,5,-13,10
+107,"Dulles, Mr. William Crothers",9150098e-9215-4dcb-9927-3d0c97e294c4,Dulles,2,2,4,6,0,5,12,31
+109,"Perreault, Miss. Anne",5cf38eac-13f0-4d81-8efe-00a1646e049f,Perreault,4,5,6,6,4,4,-29,0
+110,"Dick, Mrs. Albert Adrian (Vera Gillespie)",71b7daea-1cea-42ec-a7f5-d306b474b1d4,Dick,6,6,4,2,0,3,-5,16
+111,"Bowen, Miss. Grace Scott",76bfebd2-a4d8-47cc-80e3-20f188dcfad3,Bowen,6,1,4,4,4,1,-12,8
+112,"Nicholson, Mr. Arthur Ernest",5ab7208f-2296-487f-8ddc-aa9856c7b108,Nicholson,1,3,6,1,4,6,3,24
+113,"Bradley, Mr. George (""George Arthur Brayton"")",77832492-9684-476f-80d3-e29a0d797db1,Bradley,2,6,6,3,6,2,-2,23
+114,"Natsch, Mr. Charles H",733d2e9f-8aab-45b0-acac-bf3610c62190,Natsch,2,5,4,3,0,4,-15,3
+115,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",e96f1b57-a698-4953-8da4-2f67156d0609,Romaine,4,5,1,5,4,0,-6,13
+116,"Fortune, Mr. Mark",f8c870e6-fae0-4c36-aee4-3170766d3f75,Fortune,2,0,0,1,1,0,24,28
+117,"Beane, Mrs. Edward (Ethel Clarke)",dcb5e1ab-1f07-4dac-b47e-fc33d649f300,Beane,1,5,3,5,3,5,2,24
+118,"Blackwell, Mr. Stephen Weart",ca7594b8-8f17-4843-8570-ee6299d94e13,Blackwell,3,4,2,0,3,5,8,25
+119,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",ded4f8dc-4c11-4d68-a399-f4de38568bfa,Robert,2,4,4,4,5,2,-11,10
+120,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",d3036e7a-17e2-451f-9810-da986c5ca1c0,Holverson,6,6,2,0,1,1,0,16
+121,"Carter, Rev. Ernest Courtenay",f09fd357-a1d4-4d54-95e3-50a0a026ece2,Carter,0,1,5,0,6,0,28,40
+122,"Julian, Mr. Henry Forbes",12cc912f-b394-44fd-b394-223211d52798,Julian,0,2,4,1,5,0,18,30
+123,"Greenfield, Mr. William Bertram",8724ad53-e4cd-4ffc-843e-3e0be8702b9f,Greenfield,1,3,5,1,5,0,9,24
+124,"Snyder, Mr. John Pillsbury",67bc61a9-2d6a-4df4-b9a9-50c6129bdcc8,Snyder,6,3,2,1,3,4,16,35
+125,"Widener, Mrs. George Dunton (Eleanor Elkins)",33e155fe-3cdb-4293-a6b9-b947061a8147,Widener,5,5,0,5,0,3,-3,15
+126,"Fry, Mr. Richard",26d6f609-ce7d-4d32-acfe-5f8532370224,Fry,3,1,0,4,4,0,16,28
+127,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",931f8308-4a82-4795-b6aa-928205343c22,Brown,6,5,5,4,3,0,-22,1
+128,"Williams, Mr. Charles Duane",2e481851-b0ab-4d20-8ac8-0b26d75efe9d,Williams,4,5,5,6,2,3,0,25
+129,"Carter, Master. William Thornton II",a7227878-cf61-4278-8b5a-d3d7b5969665,Carter,4,3,6,6,3,4,18,44
+130,"Rothschild, Mr. Martin",864a3191-0eca-417e-b091-c7f061e80a0c,Rothschild,2,5,0,1,0,0,15,23
+131,"Newell, Miss. Marjorie",1f9f3a34-dd8e-4045-84aa-42b204c2c4f6,Newell,6,0,0,6,4,1,23,40
+132,"Smart, Mr. John Montgomery",3ef53085-14a8-4f61-84ee-6bcc0674651b,Smart,5,2,5,0,6,3,-5,16
+133,"Serepeca, Miss. Augusta",ebfc5c69-ee24-401a-a15e-cbf49ca77c87,Serepeca,5,1,0,2,3,3,6,20
+134,"Barber, Miss. Ellen ""Nellie""",57dcb0fd-1f89-4d17-b5fe-bad04743d9ad,Barber,6,3,0,4,5,2,22,42
+135,"Bryhl, Miss. Dagmar Jenny Ingeborg ",c7b2cd28-5092-4a68-964d-f09040b95760,Bryhl,2,1,1,2,0,4,10,20
+136,"Allen, Miss. Elisabeth Walton",770db845-7512-4e99-9ca3-c18f13a27f72,Allen,4,4,4,3,1,2,-9,9
+137,"Gee, Mr. Arthur H",eeaec519-0b90-4203-bde1-8c441cd0b703,Gee,3,5,0,6,3,6,4,27
+138,"Brown, Miss. Edith Eileen",5383f330-41b7-492a-81c5-a105ee9ee32b,Brown,1,6,5,4,1,1,-18,0
+139,"Foreman, Mr. Benjamin Laventall",07ce1c0a-c00f-45c5-901a-8f8ad9aaf7bd,Foreman,3,3,1,0,3,1,11,22
+140,"Molson, Mr. Harry Markland",c43acf7d-ec2e-4be6-824a-77f87764a1a2,Molson,2,5,1,6,6,6,-6,20
+141,"Harder, Mr. George Achilles",79625c89-eddc-410f-a1b4-1dcf9eca1455,Harder,5,6,2,0,0,2,-6,9
+142,"Ismay, Mr. Joseph Bruce",9d23d393-bfff-4676-bb5f-f05367810022,Ismay,1,5,5,4,3,5,12,35
+143,"Icard, Miss. Amelie",0702b8ae-3c8f-4901-bcbc-52a0c5bc0900,Icard,0,1,6,4,1,5,-17,0
+144,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",e348ed44-7764-4c1b-894f-10e8fa84990d,Hoyt,1,3,1,0,0,5,-2,8
+145,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",643dee4a-5318-4c3c-a687-71af52957333,Smith,2,4,5,1,0,0,-11,1
+146,"Calderhead, Mr. Edward Pennington",35851b69-7d41-4a7e-8d59-6b021e0a2dc0,Calderhead,5,6,5,0,0,5,4,25
+147,"McCarthy, Mr. Timothy J",f4a75522-ac5a-404c-ae28-346d3d075546,McCarthy,6,5,1,4,3,0,24,43
+148,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",5a28040e-0dbb-4953-aff3-c29f758e1724,Crosby,0,4,2,5,6,0,9,26
+149,"Wick, Mrs. George Dennick (Mary Hitchcock)",a205ed2a-16d8-4f88-a1ed-ff3d890f401e,Wick,3,2,0,4,1,3,21,34
+150,"Earnshaw, Mrs. Boulton (Olive Potter)",9cc3164e-e361-47e0-8778-524df10877a7,Earnshaw,1,6,1,0,2,0,17,27
+151,"Klaber, Mr. Herman",b57f1857-8892-4f8e-9776-e44e1f2d9324,Klaber,3,6,4,4,5,1,14,37
+152,"Collyer, Mr. Harvey",21cd8036-6409-4969-ae00-936dfd590adb,Collyer,0,6,4,5,6,6,-27,0
+153,"Stahelin-Maeglin, Dr. Max",0c96500b-8c6d-4848-b21c-1b3447e060b2,Stahelin-Maeglin,5,3,2,3,3,4,17,37
+154,"Seward, Mr. Frederic Kimber",547f2f29-5c56-45f1-8ee8-61ef8278637a,Seward,3,4,2,6,5,1,-2,19
+155,"Spedden, Mr. Frederic Oakley",6f332e0d-aacc-47ef-a5a1-f238cd20c4d7,Spedden,6,6,3,4,1,4,3,27
+156,"Taussig, Miss. Ruth",bd54630a-d5ad-43a8-8c06-e3ad81814f35,Taussig,5,3,0,0,1,3,24,36
+157,"Penasco y Castellana, Mr. Victor de Satode",4e426f70-2b59-42ab-9c11-3509dc9f3eff,Penasco y Castellana,4,3,6,5,0,0,16,34
+158,"Wick, Mr. George Dennick",0e246865-7f63-48b9-b744-f62a686ec595,Wick,2,5,0,0,5,4,10,26
+159,"Smith, Mr. Richard William",387cd735-7aa7-411c-9f97-7242667f94e4,Smith,2,1,4,5,1,1,-10,4
+160,"Andrews, Mr. Thomas Jr",821b105b-07cd-4baa-a457-ac07d5fa40a5,Andrews,0,0,4,3,4,1,-3,9
+161,"Roebling, Mr. Washington Augustus II",f2cd4beb-1deb-4253-8385-9372c0f6baa3,Roebling,0,4,1,2,1,1,10,19
+162,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",f6a819ee-4650-4d72-a361-01ff82f35cc2,Frolicher-Stehli,5,5,2,3,2,0,2,19
+163,"Andrew, Mr. Edgardo Samuel",4d1fa7f0-65be-4d0f-8a16-9c8568bd96bb,Andrew,1,1,2,6,2,6,19,37
+164,"Dodge, Mrs. Washington (Ruth Vidaver)",07988cbf-c34c-41fa-8a1a-c875545a7853,Dodge,5,0,2,4,2,3,2,18
+165,"Drew, Mr. James Vivian",930f9d7a-d3cd-4725-9161-2904f60ab963,Drew,5,1,0,2,6,1,26,41
+166,"Omont, Mr. Alfred Fernand",6e777718-d8a4-4c6d-bbd6-a8af06224d1c,Omont,1,5,0,3,5,6,-6,14
+167,"Dodge, Master. Washington",fb7f46ae-56ca-4dcf-8836-08e407cb8766,Dodge,4,5,2,1,1,6,-3,16
+168,"Sutton, Mr. Frederick",1a8f862a-c188-4baa-83fd-7fcbebdc4353,Sutton,1,6,6,4,2,4,-17,6
+169,"Smith, Mr. James Clinch",fae4d644-42c5-42a9-93fa-dfb9323de0d5,Smith,2,4,3,0,2,0,-9,2
+170,"Cumings, Mr. John Bradley",b3846e9f-f1e1-4853-88a7-9765bb10a3c2,Cumings,2,2,6,3,2,3,17,35
+171,"Drew, Master. Marshall Brines",67a42c7b-18cd-4762-86e6-25b6ee3cd1c7,Drew,1,2,6,6,3,4,-20,2
+172,"Giglio, Mr. Victor",897487ae-3e16-4d08-8560-0756f44448f2,Giglio,5,3,2,2,2,4,21,39
+173,"Straus, Mrs. Isidor (Rosalie Ida Blun)",78ff1ae5-1c74-443d-8cb8-375922ff59da,Straus,5,2,5,5,4,2,-21,2
+174,"Ryerson, Miss. Emily Borie",6c59420d-5efb-467d-a260-3a5b4ea31ab0,Ryerson,3,4,1,2,0,6,-14,2
+175,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",c9de5302-c529-4955-809c-5226acf08f46,Goldenberg,1,5,1,0,0,4,3,14
+176,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",51c5ce0d-b61d-4c1b-9367-619cbe0da82b,Astor,2,0,6,2,6,4,-16,4
+177,"Frolicher-Stehli, Mr. Maxmillian",1ff03e27-b9ea-44bd-96af-401c92a0e439,Frolicher-Stehli,4,0,2,2,2,4,28,42
+178,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",e7188884-d4a0-44bd-947d-bdff8f376020,Spedden,5,1,6,6,0,2,16,36
+179,"Beesley, Mr. Lawrence",bc3f3a37-dd73-4a82-99b3-4f677c3f17a0,Beesley,3,6,3,3,0,1,-5,11
+180,"Berriman, Mr. William John",6b71af60-fcd5-4fa1-95ec-e6f0cf228b34,Berriman,0,2,0,6,4,3,-7,8
+181,"Bowenur, Mr. Solomon",6e92ecc0-e2f7-46ea-8948-c3d13c0a2a7c,Bowenur,4,3,0,0,4,6,27,44
+182,"Stewart, Mr. Albert A",fc261382-21b7-4421-8c71-4cdf78505926,Stewart,2,2,4,6,6,2,9,31
+183,"Sloper, Mr. William Thompson",95ed44b3-1ea3-4e05-bf3e-7684de762deb,Sloper,1,5,4,1,4,5,12,32
+184,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",3c22ce96-e780-495f-bebf-4de9ff71946c,Futrelle,3,2,5,2,5,1,12,30
+185,"Harrison, Mr. William",0c8690b8-6db7-4fde-a6f2-dabb088f9799,Harrison,1,1,3,1,0,0,16,22
+186,"Flegenheim, Mrs. Alfred (Antoinette)",98af2f7a-1671-468c-9830-96041244211e,Flegenheim,0,4,6,0,1,3,-6,8
+187,"Wilson, Miss. Helen Alice",fcee3afa-6090-4a90-a557-99364536abd5,Wilson,2,5,6,5,2,1,-17,4
+188,"Marechal, Mr. Pierre",57e53cbc-7bdf-4c10-8aa6-55a796987f45,Marechal,1,4,1,6,3,1,12,28
+189,"Clifford, Mr. George Quincy",8677f145-458f-49ec-baa8-8959ccf4e01d,Clifford,5,4,4,5,2,6,14,40
+190,"Aldworth, Mr. Charles Augustus",c136f2fe-7424-442d-97bc-2698b57166de,Aldworth,3,4,1,0,3,5,27,43
+191,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",c2402559-72bc-4049-af33-f309150e39bd,Harris,2,5,2,4,0,3,3,19
+192,"Hoyt, Mr. William Fisher",04383b66-a10d-473c-ba90-f28b18d7a8e9,Hoyt,3,1,1,1,5,5,21,37
+193,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",429853db-a97d-4b09-b1da-2dc0044beaa1,Duff Gordon,0,5,6,3,4,6,-13,11
+194,"Evans, Miss. Edith Corse",b800f01c-8b54-4470-90db-e4c6227a0773,Evans,5,1,6,2,4,5,-8,15
+195,"Silvey, Mr. William Baird",64fc4a8f-f5d2-41f5-8c08-b1150daff43f,Silvey,4,6,2,1,2,3,13,31
+196,"Dick, Mr. Albert Adrian",523a9dd7-39aa-4ae8-8167-211247a899e2,Dick,0,2,4,2,5,6,-13,6
+197,"Andrew, Mr. Frank Thomas",7363f2a2-a6be-47ee-a0d6-2d0cba67fa50,Andrew,2,5,4,4,5,6,7,33
+198,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",f793f934-8834-4c94-80b3-df1ba84836f4,Chaffee,0,1,1,3,4,6,-15,0
+199,"Davidson, Mr. Thornton",1e9d4f5e-9b62-498a-9d7e-eac053b7bccb,Davidson,4,4,5,1,1,6,-5,16
+200,"Brewe, Dr. Arthur Jackson",3e7d708f-aacd-4e99-b0ec-50f5ae510463,Brewe,1,3,6,4,3,6,-21,2
+201,"Frauenthal, Mr. Isaac Gerald",71270e27-e8fc-440a-a389-c9fe5b6a9539,Frauenthal,1,2,2,5,0,4,-13,1
+202,"Chevre, Mr. Paul Romaine",4b2c2822-798e-4eec-8590-9e9e07092fda,Chevre,5,5,4,3,0,3,14,34
+203,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",c861d090-3591-49ef-af26-1457bd61d65f,Bjornstrom-Steffansson,1,5,4,6,2,2,6,26
+204,"Wick, Miss. Mary Natalie",6484cdd4-ab5f-418f-bdb5-8767826e2927,Wick,3,3,4,1,5,3,2,21
+205,"Farthing, Mr. John",8a23cb87-53bf-4d6a-9b93-ab6fd0e99251,Farthing,6,5,0,0,2,1,8,22
+206,"Oliva y Ocana, Dona. Fermina",5901932d-f5e3-4992-a036-cd7c60756872,Oliva y Ocana,0,2,0,0,6,2,24,34
+207,"Butt, Major. Archibald Willingham",7a68980f-4ad3-4daf-ac5d-fac4c5135f35,Butt,1,6,5,4,1,0,23,40
+208,"Geiger, Miss. Amalie",dcd4d089-9801-4821-878d-b096a0d68a57,Geiger,0,2,6,0,0,3,31,42
+209,"Hays, Mr. Charles Melville",4693554a-9d40-457a-8c2f-c75203e73c67,Hays,5,6,3,2,3,4,-1,22
+210,"Cavendish, Mr. Tyrell William",3dffd12c-e36c-4150-943e-b86e47b16f1a,Cavendish,6,0,1,6,5,5,-7,16
+211,"Cunningham, Mr. Alfred Fleming",8af029ad-198e-4d69-aae5-96bba37d35c8,Cunningham,0,3,6,2,1,6,1,19
+212,"Birnbaum, Mr. Jakob",fa6d7c0f-92f6-47ca-adf3-e4c5c65e027c,Birnbaum,1,5,4,0,6,2,12,30
+213,"Brown, Miss. Amelia ""Mildred""",86928ec5-0542-42e7-8f9d-ea91cf586869,Brown,1,5,3,2,6,5,-7,15
+214,"Eustis, Miss. Elizabeth Mussey",5e235e66-aa93-4fd8-8100-4673e24ea7f7,Eustis,3,4,1,5,0,3,-4,12
+215,"Thorne, Mrs. Gertrude Maybelle",78fdd68a-42f3-4f56-97a2-bd50e7e0233d,Thorne,1,0,4,5,1,1,11,23
+216,"Bazzani, Miss. Albina",1b89b902-97f4-4478-a236-22405eb55984,Bazzani,2,6,4,5,1,4,-12,10
+217,"Futrelle, Mr. Jacques Heath",8583e749-7bcb-443d-9357-8cc5320dcad9,Futrelle,4,0,1,6,4,1,11,27
+218,"Stead, Mr. William Thomas",73edf8b1-037b-4709-8afb-5a63bd8e4c2e,Stead,0,5,1,4,5,3,-12,6
+219,"Millet, Mr. Francis Davis",e9a7663e-f776-43e9-972d-642d31737461,Millet,4,3,0,3,4,3,13,30
+220,"Minahan, Mrs. William Edward (Lillian E Thorpe)",345eda90-82d8-433b-a4cf-7d32efd2fd9a,Minahan,2,4,0,3,5,2,-15,1
+221,"Widener, Mr. Harry Elkins",80e648d0-8dd5-4846-bc15-22d6c61de0d3,Widener,3,6,6,3,2,4,13,37
+222,"Wright, Mr. George",c0803893-774f-49f2-b838-20ea464a957e,Wright,0,4,6,5,5,1,-16,5
+223,"Bird, Miss. Ellen",3eefc764-728a-45e2-a648-0229857b0aac,Bird,3,0,1,5,5,2,-6,10
+224,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",56687341-924f-4c9c-9dd0-99534b79eb64,Cumings,3,1,5,0,5,2,-3,13
+225,"Beauchamp, Mr. Henry James",61dcc104-9494-4d80-87e7-4b0969d28602,Beauchamp,1,4,0,6,0,5,10,26
+226,"Meyer, Mrs. Edgar Joseph (Leila Saks)",1d561fcf-6dc4-4d78-a961-c47f83864ef3,Meyer,1,3,1,3,2,2,22,34
+227,"Kent, Mr. Edward Austin",1db14a59-8c2d-4bdf-9ab2-03a86ddda0cc,Kent,6,3,0,3,2,0,-4,10
+228,"Becker, Miss. Marion Louise",25990b9f-c59e-4b0b-841f-e8998957f57d,Becker,0,5,4,0,2,4,25,40
+229,"Chapman, Mr. John Henry",4096e8ce-7f0d-4888-9b17-957ebd69cd8a,Chapman,1,2,0,5,2,5,23,38
+230,"Gibson, Mrs. Leonard (Pauline C Boeson)",5a570b61-a7e7-4e10-bde6-2859f2b84261,Gibson,1,3,1,6,6,1,0,18
+231,"Woolner, Mr. Hugh",25224d0f-2255-4099-820b-fede60e75262,Woolner,4,3,6,1,2,3,-18,1
+232,"Davies, Mr. Charles Henry",79378a1a-2d37-4090-a924-ef66b4077fef,Davies,2,2,3,4,6,0,-11,6
+233,"del Carlo, Mr. Sebastiano",06b94467-2598-4d5c-8992-d8cf6393027b,del Carlo,6,5,0,2,5,4,-9,13
+234,"Ward, Miss. Anna",d81e0501-d536-43bb-8155-16f5ae35a835,Ward,0,6,4,4,6,5,14,39
+235,"Fortune, Mrs. Mark (Mary McDougald)",15efa001-cfd6-4a47-b763-76d649ad15b2,Fortune,0,5,5,3,4,1,-13,5
+236,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",4a2a4268-ba5c-4d3c-a6c2-4caf0bf19122,Allison,5,2,4,5,6,1,-4,19
+237,"Borebank, Mr. John James",9c33a589-1313-4e6f-9819-86156ad7006b,Borebank,0,6,6,3,6,1,18,40
+238,"Douglas, Mr. Walter Donald",e2b90f0e-44b6-4769-8c10-e90e136667e5,Douglas,1,1,1,5,3,3,29,43
+239,"Bryhl, Mr. Kurt Arnold Gottfrid",2deb4daf-4fb2-4009-8f49-284c7c51521d,Bryhl,4,5,6,6,4,5,5,35
+240,"Pears, Mrs. Thomas (Edith Wearne)",2306fd58-dae5-45a8-a6ab-33e123a86fb5,Pears,5,0,2,1,2,4,-2,12
+241,"Bissette, Miss. Amelia",474d3ac7-8268-4623-b1bf-8cfbf7d523ba,Bissette,1,5,0,3,2,6,10,27
+242,"Kenyon, Mr. Frederick R",f9b40c32-f31a-4311-810b-ac3674b556ea,Kenyon,1,0,1,1,4,5,2,14
+243,"Hippach, Miss. Jean Gertrude",9a27eccf-73bd-4340-83a7-47bdbae1abe1,Hippach,2,2,0,6,0,0,32,42
+244,"Ryerson, Miss. Susan Parker ""Suzette""",67feda5c-218a-4092-ac83-3deb12952b26,Ryerson,3,3,3,0,1,3,-12,1
+245,"Abelson, Mr. Samuel",e5f04197-256a-412d-b6b9-a15aa08fab60,Abelson,2,2,4,3,5,1,4,21
+246,"Brown, Mrs. James Joseph (Margaret Tobin)",e11d516e-ed86-4e6f-b0b0-92f32f3b3d2f,Brown,5,3,2,6,2,3,-2,19
+247,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",ca71f269-cc0c-42de-982b-0d301799b0a5,Lines,1,5,2,3,2,4,19,36
+248,"Silvey, Mrs. William Baird (Alice Munger)",a134ebfd-c6cb-4f60-8ee3-2b3a014d299f,Silvey,3,3,3,4,3,3,21,40
+249,"Candee, Mrs. Edward (Helen Churchill Hungerford)",6d0340aa-6a2c-4161-9644-49bf2f3df71a,Candee,6,0,1,3,2,3,15,30
+250,"Bateman, Rev. Robert James",d4c90356-e6f3-484b-995d-b42ea9d47f59,Bateman,0,6,1,1,3,5,-16,0
+251,"Chaffee, Mr. Herbert Fuller",715e21db-a95d-439c-beb6-6522dec20b10,Chaffee,0,6,6,5,6,6,-13,16
+252,"Christy, Miss. Julie Rachel",5c4e8d31-dd2d-4424-ad16-8c47bfceb979,Christy,0,3,0,0,4,6,15,28
+253,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",f52fd8ce-28fa-408d-8140-53d9909eab7d,Cavendish,3,3,5,6,2,0,-11,8
+254,"Van der hoef, Mr. Wyckoff",a1b6c050-b27f-4119-94b7-3c13f0077c70,Van der hoef,5,3,2,3,2,0,13,28
+255,"Hassab, Mr. Hammad",16e9a6c7-ae4e-4c33-9339-84c466c826ba,Hassab,2,2,2,5,1,1,10,23
+256,"Bracken, Mr. James H",7776dbe0-5882-4826-a447-00204b38dc02,Bracken,5,0,4,3,5,2,10,29
+257,"Hawksford, Mr. Walter James",5c6e75a2-2ae3-4840-bf8d-e4235e87b9de,Hawksford,5,3,1,1,5,6,12,33
+258,"Jones, Mr. Charles Cresson",07d24f5d-1acf-4d55-b833-dddae1c5a1bf,Jones,6,4,6,2,3,2,1,24
+259,"Case, Mr. Howard Brown",3b3291cf-0c2a-43de-b4ae-87e921db8690,Case,3,6,0,0,5,5,-6,13
+260,"White, Mr. Richard Frasar",8b8b31f6-1421-4cd0-9c30-24d587232dc3,White,5,6,3,3,6,0,10,33
+261,"Taussig, Mr. Emil",b43f9b6b-9278-45f3-be71-e810f5055e86,Taussig,4,2,0,0,6,0,-2,10
+262,"Harrington, Mr. Charles H",58a11d57-83b8-4aae-bab8-4217d4a6cb2a,Harrington,2,6,2,6,5,3,-6,18
+263,"Long, Mr. Milton Clyde",cf0cfdf2-4a20-40df-9bce-8ddcff67e3a0,Long,4,1,1,4,1,6,17,34
+264,"Spencer, Mr. William Augustus",2a0ba7c1-0f0b-4e40-a0c0-8f5296febb5d,Spencer,4,0,6,1,6,3,10,30
+265,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",e7c6aac2-ca1b-4e5b-916b-036e79963f90,Hippach,4,4,6,3,5,0,-20,2
+266,"Allison, Mr. Hudson Joshua Creighton",c2c950af-ddf4-47ef-978a-c125e96b529e,Allison,3,0,0,3,4,2,25,37
+267,"Davis, Miss. Mary",d1bf49da-06ee-4307-b356-48f2901064ac,Davis,6,4,4,6,4,4,-19,9
+268,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",034253da-fb61-4374-bff2-15cfd4e9a408,Rothschild,0,2,5,6,4,0,25,42
+269,"Gibson, Miss. Dorothy Winifred",21247a9d-75a9-4b8c-945b-e69c9650a33b,Gibson,1,6,3,3,6,6,12,37
+270,"Williams, Mr. Richard Norris II",3605e0ae-4e56-41e6-b2f2-15812c98749f,Williams,0,1,6,2,1,2,21,33
+271,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",177832e9-ca26-46c9-9f0e-c5046751fbc0,del Carlo,0,0,6,2,5,5,1,19
+273,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",8f88d8c9-c766-4fa5-a627-8c3df237b3c7,Baxter,5,5,6,0,1,3,19,39
+274,"Carlsson, Mr. Frans Olof",323277e1-b9d4-42cf-a29b-a9b9715239d4,Carlsson,1,1,3,5,5,1,26,42
+275,"Brady, Mr. John Bertram",cd7b1c02-610b-4865-8164-7a61244b07a0,Brady,0,5,4,1,2,1,0,13
+276,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",8b0fbc53-9178-465d-8c2d-ba5552cdf512,Carter,3,0,4,0,4,4,-2,13
+277,"Beckwith, Mr. Richard Leonard",fab60c19-dc19-430b-8159-952ce4c03e97,Beckwith,3,5,0,1,2,6,-8,9
+278,"Rood, Mr. Hugh Roscoe",f87f77d4-4082-45b9-a286-82df347e890b,Rood,4,6,1,0,6,4,-8,13
+279,"Ostby, Mr. Engelhart Cornelius",b7619ed6-edba-4741-8bb3-31bc0d29bc7b,Ostby,5,0,3,4,6,0,13,31
+280,"Newell, Miss. Madeleine",2299baac-2a3a-49cd-b808-dd15a8a94caa,Newell,1,2,6,6,6,0,22,43
+281,"Taylor, Mr. Elmer Zebley",11e9c2af-b42e-427a-9c56-7eb472a783ef,Taylor,0,3,2,6,2,0,18,31
+282,"Shutes, Miss. Elizabeth W",af4bd6f3-a12a-4d05-90e3-3294174b4f6d,Shutes,6,2,6,0,3,0,-5,12
+283,"Bailey, Mr. Percy Andrew",5157d415-bf6e-487b-940c-b1905e1b1f71,Bailey,4,3,2,2,1,6,-8,10
+284,"Behr, Mr. Karl Howell",5050e4a7-e150-425e-8e2d-ff605ebe8675,Behr,0,0,1,0,2,3,2,8
+285,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",d1ba6afe-42ed-44b7-aac1-59a2c3d75ff5,Kimball,0,4,1,5,0,0,13,23
+286,"Cardeza, Mr. Thomas Drake Martinez",f113974b-2da3-41d5-af76-349d1635d4d2,Cardeza,0,4,6,6,0,6,-13,9
+287,"Madill, Miss. Georgette Alexandra",3d29d5b9-78e5-44be-b7f0-433bb555e36a,Madill,6,4,1,6,3,2,-15,7
+288,"Ryerson, Mr. Arthur Larned",25abf322-5b2b-43bf-af76-9ad6de6f6cb6,Ryerson,0,0,0,0,0,4,16,20
+289,"McCaffry, Mr. Thomas Francis",8a960256-cf89-440e-a0d8-7805529afa0f,McCaffry,1,2,4,1,2,5,5,20
+290,"Fortune, Miss. Mabel Helen",5d96cff6-9cdd-433e-b9f7-4ad06b99b236,Fortune,2,5,6,4,3,2,-2,20
+291,"Homer, Mr. Harry (""Mr E Haven"")",f32b9725-0ac8-49af-8219-bfac023d7452,Homer,1,4,6,5,1,3,-13,7
+292,"Denbury, Mr. Herbert",1e90bb34-fb7a-48b0-a761-ad886e8e44e4,Denbury,1,5,0,5,5,3,20,39
+293,"Artagaveytia, Mr. Ramon",d4163ed3-9873-4951-8769-a683eb3a6693,Artagaveytia,6,2,0,5,4,2,-3,16
+294,"Brandeis, Mr. Emil",2f0ac579-a1aa-48b1-8789-fb964b21e050,Brandeis,4,0,3,4,5,2,-1,17
+295,"Baumann, Mr. John D",abab6036-7722-4e3f-a079-0f82b19bf4bb,Baumann,3,5,6,4,4,4,4,30
+296,"Becker, Master. Richard F",ba697ab6-eb98-48f0-bdd6-4afdf44e6262,Becker,6,3,1,6,6,1,6,29
+297,"Beattie, Mr. Thomson",f7902f79-a3af-4c04-9bac-e45a55c5449c,Beattie,4,6,3,2,3,4,-17,5
+298,"Carrau, Mr. Francisco M",dfffc62f-b9aa-4c4a-b465-a279f302a204,Carrau,3,3,1,4,4,5,-14,6
+299,"Payne, Mr. Vivian Ponsonby",3973dcd5-b6d1-4f74-9f32-841cbb9a2391,Payne,6,5,6,2,2,0,8,29
+300,"Bishop, Mr. Dickinson H",1a94f8b3-ca58-4c10-9e31-86902de22714,Bishop,4,6,5,3,0,2,-3,17
+301,"Botsford, Mr. William Hull",9238bf25-f0ed-4cbc-8a86-801a999316b4,Botsford,4,3,5,4,4,5,-8,17
+302,"Cameron, Miss. Clear Annie",4060bd43-b09c-4a1b-8e79-3e10381d9c1d,Cameron,6,1,2,5,0,3,21,38
+303,"Chibnall, Mrs. (Edith Martha Bowerman)",0705c286-3b1a-4b1e-af85-47f948c157d8,Chibnall,0,5,0,4,2,6,-9,8
+304,"Buss, Miss. Kate",76f23663-448d-447f-9bf4-233ab3711d40,Buss,5,3,0,3,0,6,19,36
+305,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",0e763563-cc9e-4d36-b10e-72af3491602f,Stengel,4,6,6,0,4,5,4,29
+306,"Coleridge, Mr. Reginald Charles",2470a445-9995-44c9-bd6e-a49a0e13ab72,Coleridge,4,5,5,3,3,0,17,37
+307,"Frolicher, Miss. Hedwig Margaritha",62a597fa-ef5e-42d0-9475-843be3c6b473,Frolicher,5,1,6,5,2,6,7,32
+308,"Clark, Mrs. Walter Miller (Virginia McDowell)",2339dab0-8d82-4099-a46a-53f8bde17c52,Clark,2,3,5,6,4,6,-13,13
+309,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",86db64da-7045-4aef-b185-3ae6017cf5f3,Lindstrom,6,0,1,6,1,1,9,24
+310,"Holverson, Mr. Alexander Oskar",fb545b23-1aa7-413c-9e93-c839b8011c78,Holverson,5,3,3,3,5,1,19,39
+311,"Kimball, Mr. Edwin Nelson Jr",46fba376-23ff-46fc-8907-1bf431e564e5,Kimball,3,5,3,4,4,5,-4,20
+312,"Carter, Mrs. William Ernest (Lucile Polk)",cd54892d-83fe-44a7-8be3-9ba7096e23ea,Carter,2,5,5,6,6,4,-14,14
+313,"Collett, Mr. Sidney C Stuart",ff45740e-70d3-4741-a4db-954bbb210684,Collett,1,3,3,3,3,2,22,37
+314,"Chaudanson, Miss. Victorine",652a4761-3de8-498c-876f-67c42d517c62,Chaudanson,1,5,0,4,2,0,29,41
+315,"Byles, Rev. Thomas Roussel Davids",dafd7530-76c8-4fa3-9f37-3970f3d92c64,Byles,4,2,1,1,5,4,3,20
+316,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",2d53a2bf-3238-4f80-8101-ac04fe8febe6,Collyer,4,0,4,3,5,3,-13,6
+317,"Loring, Mr. Joseph Holland",bda8ea47-1680-4327-9519-49687c0f4ebf,Loring,1,6,0,6,5,5,-6,17
+318,"Willard, Miss. Constance",06f2ddde-5db4-4c1f-aab1-b0658a83d3c8,Willard,4,6,1,4,6,0,7,28
+319,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",3b1f9442-2bb5-469f-a443-f1ec7e0b7434,Penasco y Castellana,4,5,1,5,6,5,-18,8
+320,"Graham, Mrs. William Thompson (Edith Junkins)",b5c428b3-fbba-44da-8cb9-9ad059da27a7,Graham,5,0,2,3,3,1,2,16
+321,"Reuchlin, Jonkheer. John George",7148d084-b3be-4474-8206-980e0744a25f,Reuchlin,4,4,0,3,2,5,-9,9
+322,"Daly, Mr. Peter Denis ",4620522a-544b-4a62-ac95-58135574c0b2,Daly,1,2,1,4,2,2,-12,0
+323,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",cec4d468-bdae-4139-9d9b-354dfc163981,Lindeberg-Lind,4,2,1,5,5,4,9,30
+324,"Lines, Miss. Mary Conover",a0b36028-cc7c-4b69-8e05-39207bbdc6cd,Lines,6,2,1,4,6,4,-2,21
+325,"Partner, Mr. Austen",dc8406e5-9535-4314-a2e2-9669a5bda592,Partner,6,3,1,3,5,1,-15,4
+326,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",6d6b6d1c-7e4b-4953-8973-3ecda4cfa2f4,Corey,3,0,6,2,4,3,11,29
+327,"Head, Mr. Christopher",9eabe28e-99df-4ab9-a98d-248e70e63514,Head,3,2,5,5,2,2,17,36
+328,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",c3314cd3-a244-4526-921e-45d1d6dcc241,Duff Gordon,2,6,5,2,2,4,-8,13
+329,"Silverthorne, Mr. Spencer Victor",638be880-9b4d-4cd7-829c-7fef6b1f0c47,Silverthorne,2,4,0,4,3,2,-15,0
+330,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",8cd4e01b-ae1d-4b2f-8924-21343008f2a1,Warren,3,5,2,0,0,2,-11,1
+331,"Peuchen, Major. Arthur Godfrey",4d8ebc20-dc0f-4a8a-ba26-eebe6ab4d2f4,Peuchen,4,4,5,6,4,3,-6,20
+332,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",c442aa3f-6bcd-4533-bc5e-7b90fb7db2e9,Taylor,3,6,3,0,3,3,19,37
+333,"Stone, Mrs. George Nelson (Martha Evelyn)",803eeabb-e03e-4ab3-98e7-a8dcbf8a9783,Stone,1,1,2,0,5,2,17,28
+334,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",48755b18-6f1b-4c4c-8ff2-420dd1be402c,Frauenthal,3,5,1,1,5,4,19,38
+335,"Deacon, Mr. Percy William",5c5b00d7-e2d7-428d-ac88-2e32a617de33,Deacon,4,2,3,3,1,5,-2,16
+336,"Bidois, Miss. Rosalie",a27b5764-345f-4dc7-8e33-bb366485108f,Bidois,2,6,1,6,5,4,9,33
+337,"Fleming, Miss. Margaret",277ccd0d-0efb-40c5-a6a2-22cab7601823,Fleming,1,2,4,6,2,0,-13,2
+338,"Francatelli, Miss. Laura Mabel",474e4e7b-ee6a-499a-b72c-dc09cf537b05,Francatelli,1,0,1,0,2,0,1,5
+339,"Cherry, Miss. Gladys",febef317-d7e3-4eee-83a4-cc3c1f4ad6a8,Cherry,2,3,5,3,5,2,10,30
+340,"Doling, Mrs. John T (Ada Julia Bone)",8aafa794-be96-425d-8a60-f6ae52e00bdb,Doling,6,4,0,6,4,2,-4,18
+341,"Crosby, Capt. Edward Gifford",0a15a1a1-45e2-41d6-bc8e-a5d3c78c4c45,Crosby,4,6,5,3,6,0,16,40
+342,"Blank, Mr. Henry",b6a1df5a-608d-4ad4-93dc-88b92786a65b,Blank,0,3,1,6,5,6,-2,19
+343,"Crosby, Miss. Harriet R",0c8a2da5-bb52-4731-8626-5665e16bed44,Crosby,4,2,2,3,0,6,-9,8
+344,"Kenyon, Mrs. Frederick R (Marion)",0d5f4929-36cd-4d65-b182-6d72305c7a3b,Kenyon,3,3,2,0,5,0,0,13
+345,"Davies, Master. John Morgan Jr",cde013f0-bfc0-4a1c-b568-90a7e3a2ffd6,Davies,6,1,5,0,5,1,0,18
+346,"Cleaver, Miss. Alice",ee20c63b-328a-4795-848a-3b9a6fb64e16,Cleaver,2,1,5,3,1,0,3,15
+347,"Christy, Mrs. (Alice Frances)",7ce27846-0cbb-40f5-b4b6-417802f36225,Christy,4,5,5,5,2,4,-9,16
+348,"Beane, Mr. Edward",cc675d9b-1b56-4d38-aba8-c113b234a644,Beane,3,1,6,5,1,0,-15,1
+349,"Mock, Mr. Philipp Edmund",ceb8deb8-dae1-44c7-974a-b97c42167f96,Mock,4,6,3,2,5,2,-16,6
+350,"Pears, Mr. Thomas Clinton",fa27f6e6-2d27-4a15-9a00-1ddb915ee4cc,Pears,1,1,4,5,3,6,10,30
+351,"Robbins, Mr. Victor",041be35c-33e3-4e0f-a19c-bf16c82656f1,Robbins,2,2,2,4,1,6,17,34
+352,"Fortune, Miss. Ethel Flora",a0276d11-638c-460b-9808-793a1fe0b69b,Fortune,5,0,4,6,5,6,18,44
+353,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",8bad9888-a287-4387-a85b-14ee621c6632,Chambers,3,1,1,2,3,1,5,16
+354,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",fc4a139b-71b5-4505-9183-a35c2b732dbb,Angle,5,1,4,6,6,4,-1,25
+355,"Thayer, Mr. John Borland",00d7c135-da69-4624-a3d8-7e291eedb881,Thayer,5,3,2,5,6,5,1,27
+356,"Daniels, Miss. Sarah",edd98913-be2d-4685-8a5f-261b65f5ce95,Daniels,4,0,3,1,0,6,-5,9
+357,"Marvin, Mr. Daniel Warner",fbd21436-51d7-4300-8c8f-b7516cd4239b,Marvin,5,4,1,4,1,2,14,31
+358,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",06b93860-20a9-4960-b6f8-59e78a60b0ec,Cassebeer,5,0,2,5,1,1,17,31
+359,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",a72d9462-4204-4bab-bc86-35e071db8094,Snyder,3,6,4,6,0,5,-10,14
+360,"Bonnell, Miss. Elizabeth",e5889fe1-64aa-4132-a153-303d13f6d46a,Bonnell,1,1,1,1,5,3,-2,10
+361,"Stengel, Mr. Charles Emil Henry",cfe49bba-e3ad-4189-9a46-f2b847674a28,Stengel,2,3,0,2,5,0,10,22
+362,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",b34b56b9-6866-4495-b026-26e6c654fe4c,Cornell,6,5,0,2,4,1,24,42
+363,"Goldenberg, Mr. Samuel L",19adfc75-965a-42e2-9d96-94fdc7ef7519,Goldenberg,1,3,1,2,5,3,-15,0
+364,"Downton, Mr. William James",73780756-4c73-49aa-9c55-71fdb505d488,Downton,6,4,6,2,6,6,-9,21
+365,"Ross, Mr. John Hugo",6e2fe03a-ba01-48af-91bb-07d0d16b5a79,Ross,1,4,2,1,3,2,28,41
+366,"Moore, Mr. Clarence Bloomfield",9cb42077-3337-45d9-8b72-1724b7f15c47,Moore,0,3,5,5,4,0,-3,14
+367,"Schabert, Mrs. Paul (Emma Mock)",5fed8997-dfb1-407f-bd60-9b153408baab,Schabert,4,6,4,2,6,3,-13,12
+368,"Ashby, Mr. John",1521858e-cd5d-4590-84f7-359fcd7827ca,Ashby,0,4,2,3,5,1,27,42
+369,"Carrau, Mr. Jose Pedro",f77d597c-70cb-4177-89ae-1657dbe49223,Carrau,0,0,4,3,0,6,22,35
+370,"Spencer, Mrs. William Augustus (Marie Eugenie)",29e08c05-9851-4f0c-9823-c5d5f5a51be5,Spencer,1,1,4,5,5,1,-9,8
+371,"Newsom, Miss. Helen Monypeny",de29429c-85aa-47b3-98ea-43a89a5debe3,Newsom,4,1,0,5,6,4,5,25
+372,"Doling, Miss. Elsie",cbac21a8-f895-4243-8e3d-73984993d9e3,Doling,6,6,3,6,0,2,6,29
+373,"Maioni, Miss. Roberta",c1fb3f27-f992-485b-aa50-725dd7d61e1f,Maioni,5,2,4,6,3,2,22,44
+374,"Chisholm, Mr. Roderick Robert Crispin",b0c04d73-174a-4d7c-97bb-426ee035e4cd,Chisholm,6,0,4,1,2,0,24,37
+375,"Sagesser, Mlle. Emma",c41e4a0e-d396-477b-be73-9a1e0ce40dfe,Sagesser,4,3,4,0,5,1,-7,10
+376,"Weir, Col. John",3401e262-76f5-410c-88ac-25ad63022123,Weir,1,4,2,2,2,3,17,31
+377,"Parr, Mr. William Henry Marsh",2a3e2554-993f-4c8c-ac96-171904f12651,Parr,4,2,6,5,5,0,-15,7
+378,"Thayer, Mr. John Borland Jr",d51fbc6e-c5a3-4c4b-8ccb-7375281d80da,Thayer,1,1,6,1,6,2,16,33
+379,"Hipkins, Mr. William Edward",4c316dc4-99b9-41c1-ab64-4ae7e38624e7,Hipkins,1,0,2,1,1,2,17,24
+380,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",453646ca-1b58-4e86-93f5-9b46e860f487,Caldwell,1,3,5,0,4,5,26,44
+381,"Ryerson, Master. John Borie",a7999427-048e-4307-96ea-368192902d59,Ryerson,3,0,6,4,5,3,17,38
+382,"Bonnell, Miss. Caroline",497ff0e4-019d-4cc2-ad7e-7a905d29c36c,Bonnell,4,1,2,3,5,5,2,22
+383,"Caldwell, Mr. Albert Francis",f866af22-1249-4f87-838f-4da780558350,Caldwell,5,4,2,4,6,2,-16,7
+384,"Abelson, Mrs. Samuel (Hannah Wizosky)",6cf82831-5559-42c3-a00f-1922cde598c3,Abelson,3,4,1,4,6,0,-5,13
+385,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",8eec1226-29e9-4676-b06b-ff060b186fa3,Beckwith,2,2,5,1,5,2,-5,12
+386,"Meyer, Mr. Edgar Joseph",3608b940-5e80-4d9d-b334-ee79717660e8,Meyer,0,4,6,2,0,6,7,25
+387,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",ef9d5ed2-0fbc-4cab-bb98-8861841a5f94,Harper,4,5,1,3,4,6,-18,5
+388,"de Brito, Mr. Jose Joaquim",d2f7ab13-0794-43a9-b499-dbdbe62e30b0,de Brito,3,4,6,4,0,0,-2,15
+389,"Young, Miss. Marie Grice",27b05902-8a90-4c8d-94ee-0b05bc48de20,Young,5,6,4,0,0,2,1,18
+390,"Endres, Miss. Caroline Louise",490711ad-30d0-41e0-a9f0-778c49e3c6ad,Endres,1,2,0,3,3,6,4,19
+392,"Minahan, Miss. Daisy E",a6349d40-34ef-4ea6-b9b2-46b929f53524,Minahan,1,0,4,0,4,1,14,24
+393,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",3b86f72d-c34d-4b45-88dc-0b2d56dda397,Marvin,6,5,5,1,4,3,-9,15
+394,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",92a32279-22ec-4508-9fef-a084cf6a13c1,Appleton,0,6,1,3,6,0,-3,13
+395,"Clarke, Mr. Charles Valentine",9bdda881-d577-4fb3-8381-043b805c9e76,Clarke,1,2,2,1,1,4,29,40
+396,"Colley, Mr. Edward Pomeroy",ed886e83-fec3-403d-b88b-ba9a2eb29a6f,Colley,5,1,3,5,1,6,15,36
+397,"Baimbrigge, Mr. Charles Robert",96d625b3-dc0d-46e7-afab-cbc6e5597e96,Baimbrigge,6,6,2,0,0,3,3,20
+398,"Leader, Dr. Alice (Farnham)",3cef3983-ea51-4410-b385-a0b159457eda,Leader,0,6,3,2,6,4,16,37
+399,"Ovies y Rodriguez, Mr. Servando",3e83065b-3b1b-4fa3-8004-24dad58cddff,Ovies y Rodriguez,5,3,6,5,4,2,-17,8
